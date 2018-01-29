@@ -133,7 +133,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student
 
 
 ==========
@@ -144,7 +144,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
 
 
 ==========
@@ -166,7 +166,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student/mtec1002
 
 
 ==========
@@ -176,13 +176,13 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+ent-v314-014.local
 
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
-
+$ pwd
 
 
 ==========
@@ -213,6 +213,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
+animals		foo		food		pineapple
 
 
 
@@ -221,7 +222,7 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
-
+Jan 29 17:06 aardvark
 
 
 ==========
@@ -233,7 +234,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mrkdir -p foo/bar/baz
 
 
 ==========
@@ -241,7 +242,9 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd foo
+cd bar
+cd baz
 
 
 ==========
@@ -249,44 +252,45 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd ../..
 
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+-a
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+ls ~
 
 
 ==========
 28. What's a pathname?
 ----------
-
+General form of a file or directory
 
 
 ==========
 29. What's a directory?
 ----------
-
+Cataloging structure of a file system
 
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+Paths expressed as from starting from root
