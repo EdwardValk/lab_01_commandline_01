@@ -15,11 +15,11 @@ Follow the instructions line-by-line.
 ==========
 2. Create a directory called mtec1002.
 ----------
-
+/Users/student/mtec1002
 ==========
 3. Change your directory so that you're in mtec1002.
 ----------
-
+ent-v314-014:mtec1002 student$ 
 ==========
 4. Type:
 
@@ -31,7 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+/Users/student/mtec1002
 
 
 ==========
@@ -42,7 +42,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals
 
 
 ==========
@@ -53,7 +53,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	food
 
 
 ==========
@@ -64,7 +64,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	foo	food
 
 
 ==========
@@ -75,7 +75,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/foo/bar/baz/qux
 
 
 ==========
@@ -86,7 +86,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/foo/bar
 
 
 ==========
@@ -97,7 +97,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/foo/bar/baz/qux
 
  
 ==========
@@ -108,7 +108,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student
 
 
 ==========
@@ -120,6 +120,8 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
+total 8
+drwxr-x---   2 student  staff    68 Aug 22  2016 Adlm
 
 
 
