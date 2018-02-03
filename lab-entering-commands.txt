@@ -61,27 +61,7 @@ Copy and paste the first *two lines* of output below.
 
 total 8
 drwxr-xr-x   8 student  staff   272 Jan 17 14:34 Ableton
-drwxrwxrwx  14 student  staff   476 Jan 17 14:07 Adobe
-drwxr-xr-x   4 student  staff   136 Aug  9 17:46 Adobe Flash Builder 4.7
-drwxr-xr-x   3 student  staff   102 Aug 22  2016 Arduino
-drwxrwxrwx   3 student  staff   102 Jan 17  2017 Avid Projects
-drwxr-xr-x   4 student  staff   136 Aug 22  2016 Fritzing
-drwxr-xr-x   2 student  staff    68 Aug 22  2016 MATLAB
-drwxr-xr-x   3 student  staff   102 Aug  9 18:04 MakeHuman
-drwxr-xr-x   9 student  staff   306 Aug 22  2016 Max 7
--rw-r--r--   1 student  staff  1566 Jan 17 14:13 MuseLog.txt
-drwxr-xr-x   3 student  staff   102 Aug  9 18:06 NewBlue
-drwxr-xr-x   3 student  staff   102 Jan 17 14:36 Pd
-drwxr-xr-x  14 student  staff   476 Jan 17  2017 Pro Tools
-drwxr-xr-x   7 student  staff   238 Jan 17  2017 Processing
-drwxr-xr-x   2 student  staff    68 Aug 22  2016 REAPER Media
-drwxr-xr-x   9 student  staff   306 Jan 17 14:38 Smaart v8
-drwxr-xr-x   2 student  staff    68 Aug 31  2016 Temporary Work
-drwxr-xr-x   2 student  staff    68 Jan 26 14:23 Unreal Projects
-drwxr-xr-x   4 student  staff   136 Jan 17 14:19 Untitled
-drwxr-xr-x   2 student  staff    68 Aug 22  2016 eagle
--rw-r--r--   1 student  staff     0 Aug 22  2016 iChats
-drwxr-xr-x   3 student  staff   102 Aug 22  2016 maya
+
 
 ==========
 4.  Type:
@@ -93,13 +73,7 @@ Copy and paste the first *two lines* of output below.
 
 .			Avid Projects		Processing
 ..			Fritzing		REAPER Media
-.DS_Store		MATLAB			Smaart v8
-.TmThBHyOVRrMJdi0	MakeHuman		Temporary Work
-.localized		Max 7			Unreal Projects
-Ableton			MuseLog.txt		Untitled
-Adobe			NewBlue			eagle
-Adobe Flash Builder 4.7	Pd			iChats
-Arduino			Pro Tools		maya
+
 
 
 ==========
@@ -199,3 +173,6 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+LS is the command
+-a is the argument
+Desktop is the prompt
