@@ -31,7 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+/Users/stephanopolisbrakye
 
 
 ==========
@@ -42,8 +42,8 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
+Applications    Documents    Library   Music       Public
+Desktop         Downloads    Movies    Pictures    animals
 
 ==========
 6. Type:
@@ -53,7 +53,8 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+Applications    Documents    Library   Music       animals
+Desktop         Downloads    Movies    Pictures    food
 
 
 ==========
@@ -64,6 +65,9 @@ $ ls
 
 Copy and paste the output below.
 ----------
+Applications    Documents    Library   Music       animals
+Desktop         Downloads    Movies    Pictures    food
+
 
 
 
@@ -142,7 +146,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumea
 
 
 ==========
