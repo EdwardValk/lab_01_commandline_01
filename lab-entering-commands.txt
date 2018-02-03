@@ -125,7 +125,7 @@ ls: doesnotexist: No such file or directory
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
-
+-a -l
 
 
 ==========
@@ -137,13 +137,13 @@ ls: doesnotexist: No such file or directory
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-
+ls
 
 
 ==========
 13.  Name one argument that we passed to the command.
 ----------
-
+-a
 
 
 ==========
@@ -163,7 +163,7 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
-
+Stephanopoliss-MacBook-Pro:Volumes stephanopolisbrakye
 
 
 ==========
